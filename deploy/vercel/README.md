@@ -8,5 +8,6 @@ Cloudflare D1 and R2 bindings without changing the public Vercel URL.
 When importing the repository into Vercel, set **Root Directory** to
 `deploy/vercel` and leave the framework preset as **Other**.
 
-The `public` directory satisfies Vercel's static output requirement; requests
-are still handled by the external rewrite in `vercel.json`.
+The non-route file in `public` satisfies Vercel's static output requirement
+without shadowing `/`; application requests are handled by the external rewrite
+in `vercel.json`.
