@@ -2,6 +2,10 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
     {
+      "source": "/",
+      "destination": "https://bits-find.betta-fidgets52.chatgpt.site/"
+    },
+    {
       "source": "/:path*",
       "destination": "https://bits-find.betta-fidgets52.chatgpt.site/:path*"
     }
