@@ -1,6 +1,6 @@
-# LoFo on Vercel
+# LnF on Vercel
 
-This directory is the Vercel project root for the public LoFo deployment.
+This directory is the Vercel project root for the public LnF deployment.
 
 It uses a Vercel external rewrite so the application continues to use its
 Cloudflare D1 and R2 bindings without changing the public Vercel URL.

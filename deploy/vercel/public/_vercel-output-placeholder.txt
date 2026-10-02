@@ -1,3 +1,3 @@
-LoFo Vercel output directory placeholder.
+LnF Vercel output directory placeholder.
 
 Application traffic is served by the external rewrite in ../vercel.json.

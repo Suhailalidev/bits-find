@@ -1,6 +1,6 @@
-# LoFo monorepo
+# LnF monorepo
 
-The repository contains the Expo mobile app and the LoFo website, managed with pnpm workspaces and Turborepo.
+The repository contains the Expo mobile app and the LnF website, managed with pnpm workspaces and Turborepo.
 
 | Workspace | Purpose | Start command |
 | --- | --- | --- |

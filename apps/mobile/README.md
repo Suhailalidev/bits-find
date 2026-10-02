@@ -1,6 +1,6 @@
 # BTS Find
 
-Campus lost & found mobile app for BITSians — built from the *LoFo Lost & Found PRD v1.2*.
+Campus lost & found mobile app for BITSians — built from the *LnF Lost & Found PRD v1.2*.
 
 An owner reports a lost item, the campus gets one privacy-safe alert, a finder responds
 with a private match detail, and the item comes back either directly or through the BITS

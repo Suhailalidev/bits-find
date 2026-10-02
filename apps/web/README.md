@@ -1,6 +1,6 @@
-# LoFo website
+# LnF website
 
-The complete LoFo website lives in this workspace. It uses React, Vinext with Next-style app routes, Tailwind CSS and Cloudflare Worker APIs. The monorepo root owns the pnpm version, dependency lockfile and workspace policy.
+The complete LnF website lives in this workspace. It uses React, Vinext with Next-style app routes, Tailwind CSS and Cloudflare Worker APIs. The monorepo root owns the pnpm version, dependency lockfile and workspace policy.
 
 From the repository root:
 
